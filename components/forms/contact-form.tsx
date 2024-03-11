@@ -34,7 +34,7 @@ const Contactform = () => {
   return (
     <Form {...form}>
       <form
-        className="max-w-[700px] space-y-3 mx-auto"
+        className="max-w-[700px] space-y-3 mx-auto p-6"
         onSubmit={form.handleSubmit(onSubmit)}
       >
         <FormField

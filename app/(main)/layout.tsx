@@ -1,3 +1,4 @@
+import { ContactButtons } from "@/components/contact-buttons";
 import { NavigationButtons } from "@/components/navbar";
 import { ModeToggle } from "@/components/providers/mode-toggle";
 import { Home } from "lucide-react";
@@ -11,6 +12,7 @@ const Layout = ({ children }: { children: React.ReactNode }) => {
         <ModeToggle />
       </nav>
       {children}
+      <ContactButtons />
     </main>
   );
 };
