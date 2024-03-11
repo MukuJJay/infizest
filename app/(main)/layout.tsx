@@ -4,14 +4,14 @@ import { Home } from "lucide-react";
 
 const Layout = ({ children }: { children: React.ReactNode }) => {
   return (
-    <>
-      <nav className="p-4 flex justify-between items-center">
+    <main className="px-8">
+      <nav className="py-4 flex justify-between items-center">
         <Home />
         <NavigationButtons />
         <ModeToggle />
       </nav>
       {children}
-    </>
+    </main>
   );
 };
 
