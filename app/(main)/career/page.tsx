@@ -1,7 +1,5 @@
 import { Spotlight } from "@/components/aceternity/spotlight";
 import { CareerFormDialog } from "@/components/forms/career-form-dialog";
-import { Button } from "@/components/ui/button";
-import { ArrowRight } from "lucide-react";
 
 const Career = () => {
   return (
@@ -16,7 +14,7 @@ const Career = () => {
         </h1>
         <p className="mt-4 font-normal text-base text-neutral-300 max-w-lg text-center mx-auto">
           Shine bright! Launch your career with us and illuminate your
-          potential. Don't just work, make your mark. Spotlight your talents -
+          potential. Do not just work, make your mark. Spotlight your talents -
           join our team!
         </p>
         <CareerFormDialog />
