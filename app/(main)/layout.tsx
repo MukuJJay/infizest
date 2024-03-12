@@ -8,7 +8,7 @@ import Link from "next/link";
 const Layout = ({ children }: { children: React.ReactNode }) => {
   return (
     <main className="px-8">
-      <nav className="py-4 flex justify-between items-center">
+      <nav className="py-4 flex justify-between items-center border-b border-zinc-300 dark:border-zinc-900">
         <Link href="/">
           <Image width={60} height={60} src={logo} alt="logo" />
         </Link>

@@ -4,7 +4,32 @@ import demoPic from "../../public/demo_tree.jpg";
 const products: { title: string; link: string; thumbnail: any }[] = [
   {
     title: "Infizest",
-    link: "youtube.com",
+    link: "/",
+    thumbnail: demoPic,
+  },
+  {
+    title: "Infizest",
+    link: "/",
+    thumbnail: demoPic,
+  },
+  {
+    title: "Infizest",
+    link: "/",
+    thumbnail: demoPic,
+  },
+  {
+    title: "Infizest",
+    link: "/",
+    thumbnail: demoPic,
+  },
+  {
+    title: "Infizest",
+    link: "/",
+    thumbnail: demoPic,
+  },
+  {
+    title: "Infizest",
+    link: "/",
     thumbnail: demoPic,
   },
   {
@@ -14,37 +39,12 @@ const products: { title: string; link: string; thumbnail: any }[] = [
   },
   {
     title: "Infizest",
-    link: "youtube.com",
+    link: "/",
     thumbnail: demoPic,
   },
   {
     title: "Infizest",
-    link: "youtube.com",
-    thumbnail: demoPic,
-  },
-  {
-    title: "Infizest",
-    link: "youtube.com",
-    thumbnail: demoPic,
-  },
-  {
-    title: "Infizest",
-    link: "youtube.com",
-    thumbnail: demoPic,
-  },
-  {
-    title: "Infizest",
-    link: "youtube.com",
-    thumbnail: demoPic,
-  },
-  {
-    title: "Infizest",
-    link: "youtube.com",
-    thumbnail: demoPic,
-  },
-  {
-    title: "Infizest",
-    link: "youtube.com",
+    link: "/",
     thumbnail: demoPic,
   },
 ];

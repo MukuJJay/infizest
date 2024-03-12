@@ -15,7 +15,7 @@ const people = [
     name: "Whatsapp",
     designation: "Whatsapp us",
     image: whatsapp,
-    link: "mailto:recipient@example.com?subject=Email Subject&body=Prepopulated message",
+    link: "https://wa.me/1231231231",
   },
   //   {
   //     id: 3,
