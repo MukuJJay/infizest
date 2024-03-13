@@ -26,7 +26,7 @@ const testimonials = [
 
 const Career = () => {
   return (
-    <div>
+    <div className="px-5">
       <div className="h-[50rem] w-full rounded-md flex md:items-center md:justify-center bg-indigo-950 antialiased bg-grid-white/[0.02] relative overflow-hidden shadow-lg shadow-black">
         <Spotlight
           className="-top-40 left-0 md:left-60 md:-top-20"
@@ -59,7 +59,7 @@ const Career = () => {
 
 export default Career;
 
-export function InfiniteMovingCardsDemo() {
+function InfiniteMovingCardsDemo() {
   return (
     <div className="rounded-md flex flex-col antialiased dark:bg-grid-white/[0.05] items-center justify-center relative overflow-hidden">
       <InfiniteMovingCards

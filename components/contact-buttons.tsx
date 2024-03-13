@@ -8,7 +8,7 @@ const people = [
     name: "Email",
     designation: "Email Us",
     image: email,
-    link: "mailto:recipient@gmail.com?subject=Email Subject&body=Prepopulated message",
+    link: "mailto:infizestpublishings.official@gmail.com?subject=Email Subject&body=Prepopulated message",
   },
   {
     id: 2,
