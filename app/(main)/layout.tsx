@@ -4,7 +4,7 @@ import { ContactButtons } from "@/components/contact-buttons";
 import { NavigationButtons } from "@/components/navbar";
 import { ModeToggle } from "@/components/providers/mode-toggle";
 import Image from "next/image";
-import logo from "@/public/icononly_transparent_nobuffer.png";
+import logo from "@/public/logo_infizest.png";
 import Link from "next/link";
 import { useUiObserver } from "@/hooks/useUiObserver";
 import { cn } from "@/lib/utils";

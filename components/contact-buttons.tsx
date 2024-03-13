@@ -15,7 +15,7 @@ const people = [
     name: "Whatsapp",
     designation: "Whatsapp us",
     image: whatsapp,
-    link: "https://wa.me/1231231231",
+    link: "https://wa.me/9123684835",
   },
   //   {
   //     id: 3,
